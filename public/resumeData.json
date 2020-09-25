@@ -80,6 +80,22 @@
         "level": "50%"
       },
       {
+        "name": "Firebase",
+        "level": "79%"
+      },
+      {
+        "name": "GCP",
+        "level": "39%"
+      },
+      {
+        "name": "AWS",
+        "level": "39%"
+      },
+      {
+        "name": "Firebase",
+        "level": "79%"
+      },
+      {
         "name": "NestJs",
         "level": "79%"
       },
