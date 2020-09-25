@@ -1,40 +1,35 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Isaac Anyimiah",
+    "occupation": "ReactJS Mobile and Web Applications Developer",
+    "description": "Full Stack JavaScript Developer",
+    "image": "Isaac.png",
+    "bio": "My name is Isaac, I'm a Full Stack JavaScript Developer. Currently I'm freelncing.",
+    "contactmessage": "Get in touch with me if you need a project to be undertaken.",
+    "email": "iandev096@gmail.com",
+    "phone": "+233 20 906 0500",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Abloadjei, GCCP",
+      "city": "Accra",
+      "state": "GH",
+      "zip": "0233"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://lucid-elion-11b971.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1KqekzrR4pHzM4QjpmMKV5fiyms4Co9ir/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://web.facebook.com/isaac.anyimiah.1/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/ianyimiah/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/iandev096",
         "className": "fa fa-github"
       }
     ]
@@ -43,96 +38,355 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "University of Ghana",
+        "degree": "BSc in Information Technology",
+        "graduated": "June 2017",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Wekplace",
+        "title": "Web Developer",
+        "years": "August 2018 - January 2019",
+        "description": "Development of web applications."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "AppGig",
+        "title": "Software Developer",
+        "years": "September 2019 - September 2020",
+        "description": "Development of websites and webapps."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "87%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "NextJs",
+        "level": "70%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "CSS / SCSS",
+        "level": "85%"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "50%"
+      },
+      {
+        "name": "NestJs",
+        "level": "79%"
+      },
+      {
+        "name": "Postgres",
+        "level": "60%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Typescript",
+        "level": "89%"
       },
       {
         "name": "Git",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "CircleCI",
+        "level": "30%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Angular",
+        "level": "67%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "My Spotify Clone",
+        "screenshots": [
+          "https://res.cloudinary.com/iandev/image/upload/v1600992989/my-spotify/spotify-login_qx5t1d.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1600992989/my-spotify/spotify-home_r4lbnl.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1600992989/my-spotify/spotify-responsive_lkfwur.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1600992989/my-spotify/spotify-responsive-group_flgbfu.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1600992989/my-spotify/spotify-mobile-1_lvmhhq.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1600992989/my-spotify/spotify-mobile-2_dg8lse.png"
+        ],
+        "description": "My own custom build of spotify. The spotify API was used to generate reliable data to work with. State management was handled with the react Context Api. The web app is fully responsive and displays well on all devices",
+        "technologiesApis": [
+          {
+            "name": "SpotifyAPI",
+            "url": "https://developer.spotify.com/documentation/web-api/"
+          },
+          {
+            "name": "ReactJS",
+            "url": "https://reactjs.org/"
+          },
+          {
+            "name": "ContextAPI",
+            "url": "https://reactjs.org/docs/context.html"
+          },
+          {
+            "name": "Typescript",
+            "url": "https://www.typescriptlang.org/"
+          },
+          {
+            "name": "Vercel",
+            "url": "https://vercel.com/"
+          }
+        ],
+        "demonstrationUrl": "",
+        "projectUrl": "https://my-spotify-six.vercel.app/",
+        "categories": [
+          "Website/Web App",
+          "Mobile App"
+        ]
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Runs and Errands",
+        "screenshots": [
+          "https://res.cloudinary.com/iandev/image/upload/v1601037479/runs-errands/01_oabapg.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037480/runs-errands/03_bztxmi.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037480/runs-errands/04_itz4mo.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037480/runs-errands/05_i22nrx.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037480/runs-errands/06_o8ndgo.jpg"
+        ],
+        "description": "A fully functional mobile application for making errands, renting cars, hiring drivers, etc. developed with react native and firebase. State management was handled with the react Context Api.",
+        "technologiesApis": [
+          {
+            "name": "ReactNative",
+            "url": "https://reactnative.dev/"
+          },
+          {
+            "name": "Firebase",
+            "url": "https://firebase.google.com/docs"
+          },
+          {
+            "name": "ContextAPI",
+            "url": "https://reactjs.org/docs/context.html"
+          },
+          {
+            "name": "Typescript",
+            "url": "https://www.typescriptlang.org/"
+          },
+          {
+            "name": "ReactNativeElements",
+            "url": "https://reactnativeelements.com/"
+          }
+        ],
+        "demonstrationUrl": "https://res.cloudinary.com/iandev/video/upload/v1601037489/runs-errands/demonstration_rcjqwc.mp4",
+        "projectUrl": "https://github.com/iandev096/p-runs-errands",
+        "categories": [
+          "Mobile App"
+        ]
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "EsCrow Ecommerce",
+        "screenshots": [
+          "https://res.cloudinary.com/iandev/image/upload/v1601037426/escrow-ecom/es-1_kkbyhl.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037426/escrow-ecom/es-2_mk2zdz.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037427/escrow-ecom/es-3_mvbgzy.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037426/escrow-ecom/es-4_rdqanx.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037426/escrow-ecom/es-5_nv6vju.png"
+        ],
+        "description": "A fullstack ecommerce application built with NextJS (for frontend end functions) and NestJS (for backend features). State management was handled with USESWR.",
+        "technologiesApis": [
+          {
+            "name": "NextJS",
+            "url": "https://nextjs.org/"
+          },
+          {
+            "name": "NestJS",
+            "url": "https://nestjs.com/"
+          },
+          {
+            "name": "TypeORM",
+            "url": "https://typeorm.io/#/"
+          },
+          {
+            "name": "Typescript",
+            "url": "https://www.typescriptlang.org/"
+          },
+          {
+            "name": "ChakraUI",
+            "url": "https://chakra-ui.com/"
+          },
+          {
+            "name": "Vercel",
+            "url": "https://vercel.com/"
+          }
+        ],
+        "demonstrationUrl": "",
+        "projectUrl": "https://escrow-frontend.vercel.app/auth",
+        "categories": [
+          "Web App"
+        ]
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
+        "title": "Food Hub",
+        "screenshots": [
+          "https://res.cloudinary.com/iandev/image/upload/v1601037455/food-hub/01_bmclrb.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037455/food-hub/02_blefiw.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037455/food-hub/03_plyhfg.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037454/food-hub/04_zcg294.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037456/food-hub/05_fbzt5d.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037456/food-hub/06_zbjlxq.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037456/food-hub/07_mk8qd3.jpg"
+        ],
+        "description": "A react native mobile application which provides a hub for restaurants to onboard their dishes so that users can order.",
+        "technologiesApis": [
+          {
+            "name": "ReactNative",
+            "url": "https://nextjs.org/"
+          },
+          {
+            "name": "Firebase",
+            "url": "https://firebase.google.com/docs"
+          },
+          {
+            "name": "ContextAPI",
+            "url": "https://reactjs.org/docs/context.html"
+          },
+          {
+            "name": "Typescript",
+            "url": "https://www.typescriptlang.org/"
+          },
+          {
+            "name": "ReactNativeElements",
+            "url": "https://reactnativeelements.com/"
+          }
+        ],
+        "demonstrationUrl": "https://res.cloudinary.com/iandev/video/upload/v1601037464/food-hub/demonstration_lyilka.mp4",
+        "projectUrl": "https://github.com/iandev096/p-Food-hub",
+        "categories": [
+          "Mobile App"
+        ]
       },
       {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "My Airbnb",
+        "screenshots": [
+          "https://res.cloudinary.com/iandev/image/upload/v1601000216/my-airbnb/airbnb-1_x3aotz.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601000215/my-airbnb/airbnb-2_hnjcch.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601000213/my-airbnb/airbnb-responsive-group_ztrkoz.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601000214/my-airbnb/airbnb-mobile-2_fph6vv.png"
+        ],
+        "description": "A fully responsive custom clone of airbnb. The focus of this project was UI and not functionality. So the codes are basically bare reactJS codes and CSS.",
+        "technologiesApis": [
+          {
+            "name": "ReactJS",
+            "url": "https://reactjs.org/"
+          },
+          {
+            "name": "Typescript",
+            "url": "https://www.typescriptlang.org/"
+          }
+        ],
+        "demonstrationUrl": "",
+        "projectUrl": "https://vercel.com/iandev096/my-airbnb",
+        "categories": [
+          "Web App"
+        ]
+      },
+      {
+        "title": "Laundry App",
+        "screenshots": [
+          "https://res.cloudinary.com/iandev/image/upload/v1601037470/laundry/01_y05gah.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037470/laundry/02_qxwwpk.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037470/laundry/03_tffexs.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037470/laundry/04_qg8vja.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037470/laundry/07_p7y70s.jpg",
+          "https://res.cloudinary.com/iandev/image/upload/v1601037471/laundry/08_izhvtn.jpg"
+        ],
+        "description": "A functional react native mobile application for laundry services. State management was handled with the react context API and firebase was used to take care of backend requirements",
+        "technologiesApis": [
+          {
+            "name": "ReactNative",
+            "url": "https://reactnative.dev/"
+          },
+          {
+            "name": "Firebase",
+            "url": "https://firebase.google.com/docs"
+          },
+          {
+            "name": "ContextAPI",
+            "url": "https://reactjs.org/docs/context.html"
+          },
+          {
+            "name": "ReactNativeElements",
+            "url": "https://reactnativeelements.com/"
+          },
+          {
+            "name": "Typescript",
+            "url": "https://www.typescriptlang.org/"
+          }
+        ],
+        "demonstrationUrl": "https://res.cloudinary.com/iandev/video/upload/v1601037473/laundry/demonstration_sozpfm.mp4",
+        "projectUrl": "https://github.com/iandev096/p-laundry-app",
+        "categories": [
+          "Mobile App"
+        ]
+      },
+      {
+        "title": "My Whatsapp",
+        "screenshots": [
+          "https://res.cloudinary.com/iandev/image/upload/v1601035927/whatsapp/whatsapp-1_mhcsqy.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601035928/whatsapp/whatsapp-2_hzvcjb.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601035926/whatsapp/whatsapp-mobile-1_qf93ef.png",
+          "https://res.cloudinary.com/iandev/image/upload/v1601035927/whatsapp/whatsapp-mobile-2_yvaxet.png"
+        ],
+        "description": "A custom build of whatsapp with a working realtime chat functionality. The frontend is in react and backend is in vanilla nodeJS/expressJS with a mongodb and pusher integration to achieve realtime chat functionality.",
+        "technologiesApis": [
+          {
+            "name": "ReactJS",
+            "url": "https://reactjs.org/"
+          },
+          {
+            "name": "ExpressJS",
+            "url": "https://expressjs.com/"
+          },
+          {
+            "name": "ContextAPI",
+            "url": "https://reactjs.org/docs/context.html"
+          },
+          {
+            "name": "MongoDB/Mongoose",
+            "url": "https://www.mongodb.com/"
+          },
+          {
+            "name": "Pusher",
+            "url": "https://pusher.com/"
+          },
+          {
+            "name": "Typescript",
+            "url": "https://www.typescriptlang.org/"
+          }
+        ],
+        "demonstrationUrl": "",
+        "projectUrl": "https://my-whatsapp-frontend.vercel.app/",
+        "categories": [
+          "Mobile App"
+        ]
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I want to be the best.",
+        "user": ""
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "To this end, I will never stop learning",
+        "user": ""
       }
     ]
   }
