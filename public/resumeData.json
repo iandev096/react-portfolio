@@ -92,12 +92,16 @@
         "level": "39%"
       },
       {
-        "name": "Firebase",
-        "level": "79%"
+        "name": "TypeORM",
+        "level": "7%"
       },
       {
         "name": "NestJs",
         "level": "79%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "20%"
       },
       {
         "name": "Postgres",
