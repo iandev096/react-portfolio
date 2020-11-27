@@ -93,7 +93,7 @@
       },
       {
         "name": "TypeORM",
-        "level": "7%"
+        "level": "70%"
       },
       {
         "name": "NestJs",
@@ -122,10 +122,6 @@
       {
         "name": "CircleCI",
         "level": "30%"
-      },
-      {
-        "name": "Angular",
-        "level": "67%"
       }
     ]
   },
