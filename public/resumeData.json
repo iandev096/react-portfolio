@@ -262,7 +262,7 @@
         "technologiesApis": [
           {
             "name": "ReactNative",
-            "url": "https://nextjs.org/"
+            "url": "https://reactnative.dev/"
           },
           {
             "name": "Firebase",
